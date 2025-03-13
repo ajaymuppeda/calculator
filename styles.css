@@ -1,7 +1,4 @@
-
-
 body{
-
     margin: 0px;
     padding: 0px;
     text-align: center;
@@ -10,7 +7,6 @@ body{
     background-position: center;
     background-size: cover;
     height: 100vh;
-    pointer-events: right  ;
 }
 input{
     width: 75px;
@@ -38,17 +34,13 @@ input{
     box-shadow: -8px -8px 25px rgba(255, 255, 255, 0.1);
     cursor: pointer;
 }
-
 h1{
     font-size: 45px;
  }
-
 p{
     position: absolute;
     bottom: 10px;
     width: 100%;
-    
     text-align: center;
-  
     color: whitesmoke;
 }

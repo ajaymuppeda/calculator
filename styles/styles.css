@@ -6,7 +6,7 @@ body{
     background-position: center;
     background-size: cover;
     height: 100vh;  
-    background-image: url(file:///c%3A/Users/admin/Desktop/ajay/git/calculator-/images/calculator-bg-image.jpeg);
+    background-image: url("./../images/calculator-bg-image.jpeg");
 }
 input{
     width: 75px;
